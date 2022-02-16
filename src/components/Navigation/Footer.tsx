@@ -61,14 +61,14 @@ const Footer = () => (
       <span>Muhd Rahiman - {new Date().getFullYear()}</span>{' '}
     </Item>
     <Item position="right">
-      Made with love & time&nbsp;
-      <small
+      Made with 💙
+      {/* <small
         style={{
           fontSize: '70%'
         }}
       >
         (a lot of it)
-      </small>
+      </small> */}
     </Item>
   </FooterWrapper>
 )
