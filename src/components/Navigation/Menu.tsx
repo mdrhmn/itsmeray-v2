@@ -163,7 +163,7 @@ export const Menu: React.FC = () => {
       </Nav>
       <Nav>
         <NavItem>
-          <NavLink to="/">Index</NavLink>
+          <NavLink to="/">Home</NavLink>
         </NavItem>
         {pages.map(page => (
           <NavItem key={page}>
