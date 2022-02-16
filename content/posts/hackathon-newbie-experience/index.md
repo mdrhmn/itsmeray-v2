@@ -6,7 +6,7 @@ date: '2021-02-15'
 author: 'Muhd Rahiman'
 tags: ['Hackathon', 'Experience', 'Sharing']
 published: true
-commentsUrl: https://github.com/reymon359/gatsby-personal-site/issues/195
+commentsUrl: https://github.com/mdrhmn/itsmeray-v2/issues/1
 featuredImage: './assets/cover.png'
 type: 'post'
 url: 'none'
