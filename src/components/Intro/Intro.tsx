@@ -9,7 +9,11 @@ interface WrapperProps {
 const Wrapper = styled.div<WrapperProps>`
   pointer-events: none;
   font-size: ${props => props.theme.fontSizes.large};
-  max-width: 36rem;
+  // Default max-width
+  // max-width: 36rem;
+  max-width: 32rem;
+  // Allow new-line characters
+  white-space: pre-line;
   line-height: 1.3em;
   ${props => props.theme.media.max.md`
     max-width: 32rem;
