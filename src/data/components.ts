@@ -6,7 +6,7 @@ export const components = {
     }
   },
   intro: {
-    title: `Hi, I am Muhammad Rahiman, a Software Engineer from 🇲🇾.`
+    title: `Hi, I am Muhammad Rahiman, a Software Engineer from 🇲🇾.\n\nCall me Ray!`
   },
   notFound: {
     notFoundImageSrc: `../../../images/sup_seal.gif`
