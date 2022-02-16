@@ -47,6 +47,8 @@ const ItemDescription = styled(Link)`
   border-bottom: none;
   display: block;
   padding: 0.5rem 0;
+  // Allow new-line characters
+  white-space: pre-line;
   &:hover {
     border-bottom: none;
   }
@@ -146,9 +148,13 @@ export const ContentList: React.FC<ContentListItemProps> = ({
           </ItemTags>
         </ItemHeader>
         <ItemDate to={workLink}>
-          {workType === 'post'
-            ? node.frontmatter.date
-            : node.frontmatter.date.split(',')[1]}
+          {
+            // If Blog post = display full date, else display year only
+            // workType === 'post'
+            //   ? node.frontmatter.date
+            //   : node.frontmatter.date.split(',')[1]
+          node.frontmatter.date
+            }
         </ItemDate>
       </ItemContainer>
     </Tooltip>
