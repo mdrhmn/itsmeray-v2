@@ -18,20 +18,59 @@ const AboutMe: React.FC = () => {
   return (
     <Content>
       <p>
-        A passionate and highly motivated developer with a strong keenness to learn new things. 
-        Currently exploring various tech-related fields such as full-stack development, Internet of Things (IoT), 
-        data science and machine learning. 
+        A passionate and highly motivated developer with a strong keenness to learn new things 
+        who is currently working as <strong>Software Engineer</strong> at Dell Technologies Malaysia based in Cyberjaya. 
       </p>
 
       <p>
-        I built this website with&nbsp;
+      My background covers adept usage of various programming languages notably <strong>Python</strong>, 
+      <strong> HTML/CSS</strong>, <strong> JavaScript</strong> and <strong> Java</strong>.
+      </p>
+
+      <p>
+      During my final year project (FYP), 
+      I dabbled with data science, artificial intelligence (AI) and machine learning (ML), focusing on emotion detection and 
+      analysis of tweets for anticipatory anxiety detection using stacks primarily&nbsp;
+      <a
+          href="https://www.tensorflow.org/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          TensorFlow,
+        </a>&nbsp;
+        <a
+          href="https://scikit-learn.org/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Scikit-Learn,
+        </a>&nbsp;
+        <a
+          href="https://pandas.pydata.org/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Pandas,
+        </a> and&nbsp;
         <a
           href="https://reactjs.org/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          React,&nbsp;
+          Numpy
+        </a>. 
+      </p>
+
+      <p>
+        This second iteration of my portfolio + blog (devfolio) site was built with&nbsp;
+        <a
+          href="https://reactjs.org/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          React,
         </a>
+        &nbsp;
         <a
           href="https://www.gatsbyjs.com/"
           target="_blank"
@@ -39,7 +78,7 @@ const AboutMe: React.FC = () => {
         >
           Gatsby,
         </a>
-        &nbsp; and&nbsp;
+        &nbsp;and&nbsp;
         <a
           href="https://www.typescriptlang.org/"
           target="_blank"
@@ -47,18 +86,17 @@ const AboutMe: React.FC = () => {
         >
           TypeScript
         </a>
-        &nbsp;among other technologies. I use it as a place to share what I
-        learn and do.
+        &nbsp;among other technologies.
       </p>
       <p>
+        Want to see my full portfolio, have a look at&nbsp;
         <a
           href="../../../files/muhd_rahiman_resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Here is my resume
-        </a>
-        &nbsp;in case you want to have a look.
+          my resume
+        </a>!
       </p>
       {/* <p> Sometimes I&nbsp;
         <a
