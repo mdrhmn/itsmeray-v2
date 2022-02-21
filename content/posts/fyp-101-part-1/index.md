@@ -46,7 +46,7 @@ While their inference in correct; that my instinct is almost always to try and t
     <div align="center">
     <img src="https://www.socoselling.com/wp-content/uploads/20-lessons-from-20-years-in-business-slider-19-750x758.png" width="50%">
     </div>
-	<br>
+
 	Some of you might be familiar with this adage before. To me, it sums up perfectly the main reason why I decided not to do my FYP alone. Despite my personal preference to work alone, I can't refute the benefits of effective collaboration with others and how they can outweigh the advantages of working independently. 
 	<br>
 	<br>
@@ -68,7 +68,7 @@ While their inference in correct; that my instinct is almost always to try and t
     <div align="center">
     <img src="https://miro.medium.com/max/1400/0*eNIqdaQSfXe18kXE.jpeg" width="70%">
     </div>
-	<br>
+	
 	The first point heavily relies on the assumption that whoever that you teamed up with has synergy in working alongside you. There's always a risk where this person may drag you down instead of propelling you towards success.
 	<br>
 	<br>
@@ -90,7 +90,7 @@ While their inference in correct; that my instinct is almost always to try and t
     <div align="center">
     <img src="https://www.orientsoftware.com/Media/Default/Images/BlogPost/2021-04-02/outsourcing-problem-1.png" width="70%">
     </div>
-	<br>
+	
 	At first glance, this point might be more suited towards convincing oneself to do your FYP alone, but hear me out.
 	<br>
 	<br>
@@ -115,7 +115,7 @@ While their inference in correct; that my instinct is almost always to try and t
     <div align="center">
     <img src="https://media.istockphoto.com/vectors/realistic-vector-illustration-of-a-night-mountain-landscape-with-and-vector-id862770102?k=20&m=862770102&s=170667a&w=0&h=HWl8YXQkQVApvo6PHW00O8owDQ92bB8FvKdMTqgIqWo=" width="70%">
     </div>
-	<br>
+	
 	This last justification somewhat relates to my second point, but focusing more on the personal side of things. 
 	<br>
 	<br>
@@ -244,7 +244,7 @@ I've outlined 2 main aspects that I personally considered to share to everyone:
     <div align="center">
     <img src="../fyp-101-part-1/assets/umexpert.png" width="100%">
     </div>
-	<br>
+
 	The reason why it's important to take into account a supervisor's experience and research interests is because you would want to **ensure that your project title** (especially if you propose your own) is **aligned with their areas of expertise** so that they can **advise you better**. 
 	<br>
 	<br>
