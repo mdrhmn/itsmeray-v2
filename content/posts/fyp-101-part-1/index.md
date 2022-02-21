@@ -44,7 +44,7 @@ While their inference in correct; that my instinct is almost always to try and t
 	<br>
 	<br>
     <div align="center">
-        <img src="https://www.socoselling.com/wp-content/uploads/20-lessons-from-20-years-in-business-slider-19-750x758.png" width="50%">
+    <img src="https://www.socoselling.com/wp-content/uploads/20-lessons-from-20-years-in-business-slider-19-750x758.png" width="50%">
     </div>
 	<br>
 	Some of you might be familiar with this adage before. To me, it sums up perfectly the main reason why I decided not to do my FYP alone. Despite my personal preference to work alone, I can't refute the benefits of effective collaboration with others and how they can outweigh the advantages of working independently. 
@@ -242,7 +242,7 @@ I've outlined 2 main aspects that I personally considered to share to everyone:
 	<br>
 	<br>
     <div align="center">
-        <img src="../fyp-101-part-1/assets/umexpert.png" width="100%">
+    <img src="../fyp-101-part-1/assets/umexpert.png" width="100%">
     </div>
 	<br>
 	The reason why it's important to take into account a supervisor's experience and research interests is because you would want to **ensure that your project title** (especially if you propose your own) is **aligned with their areas of expertise** so that they can **advise you better**. 
