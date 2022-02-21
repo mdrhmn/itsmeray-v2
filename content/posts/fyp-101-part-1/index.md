@@ -66,7 +66,7 @@ While their inference in correct; that my instinct is almost always to try and t
 	<br>
 	<br>
     <div align="center">
-        <img src="https://miro.medium.com/max/1400/0*eNIqdaQSfXe18kXE.jpeg" width="70%">
+    <img src="https://miro.medium.com/max/1400/0*eNIqdaQSfXe18kXE.jpeg" width="70%">
     </div>
 	<br>
 	The first point heavily relies on the assumption that whoever that you teamed up with has synergy in working alongside you. There's always a risk where this person may drag you down instead of propelling you towards success.
@@ -88,7 +88,7 @@ While their inference in correct; that my instinct is almost always to try and t
 	<br>
 	<br>
     <div align="center">
-        <img src="https://www.orientsoftware.com/Media/Default/Images/BlogPost/2021-04-02/outsourcing-problem-1.png" width="70%">
+    <img src="https://www.orientsoftware.com/Media/Default/Images/BlogPost/2021-04-02/outsourcing-problem-1.png" width="70%">
     </div>
 	<br>
 	At first glance, this point might be more suited towards convincing oneself to do your FYP alone, but hear me out.
@@ -113,7 +113,7 @@ While their inference in correct; that my instinct is almost always to try and t
 	<br>
 	<br>
     <div align="center">
-        <img src="https://media.istockphoto.com/vectors/realistic-vector-illustration-of-a-night-mountain-landscape-with-and-vector-id862770102?k=20&m=862770102&s=170667a&w=0&h=HWl8YXQkQVApvo6PHW00O8owDQ92bB8FvKdMTqgIqWo=" width="70%">
+    <img src="https://media.istockphoto.com/vectors/realistic-vector-illustration-of-a-night-mountain-landscape-with-and-vector-id862770102?k=20&m=862770102&s=170667a&w=0&h=HWl8YXQkQVApvo6PHW00O8owDQ92bB8FvKdMTqgIqWo=" width="70%">
     </div>
 	<br>
 	This last justification somewhat relates to my second point, but focusing more on the personal side of things. 
