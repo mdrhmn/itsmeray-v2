@@ -183,7 +183,7 @@ While their inference in correct; that my instinct is almost always to try and t
 	This last justification somewhat relates to my second point, but focusing more on the personal side of things. 
 	<br>
 	<br>
-	Trust me when I say this; FYP can be a lonely journey if you don't have someone to talk to. Now that I've completed mine, I really cannot imagine going through all of the hurdles alone without having to occasionally rant my struggles to my partner. 
+	Trust me when I say this; **FYP can be a lonely journey if you don't have someone to talk to**. Now that I've completed mine, I really cannot imagine going through all of the hurdles alone without having to occasionally rant my struggles to my partner. 
 	<br>
 	<br>
 	Pair programming allows me to freely express my problems—both personal and work-related—to someone who can empathise and potentially help solve those problems, so that I won't be stuck spinning my wheels all day.
@@ -273,7 +273,7 @@ When you decide on your project title, you **cannot exclude the person behind th
 
 Choosing the right supervisor plays an **important role** in not just for your FYP journey, but also even for postgraduate and doctoral research. They will be in charge of not only guiding your throughout the process, but also evaluating you in terms of your final report submission and soft skills. 
 
-I've outlined 2 main aspects that I personally considered to share to everyone:
+I've outlined 3 main aspects that I personally considered to share to everyone:
 
 1. **Active vs. Passive**
 	<br>
