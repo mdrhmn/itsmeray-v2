@@ -32,6 +32,7 @@ Without further ado, let's get right into it!
 
 ## Part 1: Pre-FYP Preparation
 
+<br>
 
 ### FYP1 vs. FYP2
 
@@ -334,7 +335,7 @@ I've outlined 2 main aspects that I personally considered to share to everyone:
 	For my FYP experience, I **belonged in the first case** as my partner and I were the *only* students that my supervisor handled. She initially proposed 2 project titles but we were the only ones who took up one of them. Hence, I can vouch that having a supervisor that does not handle too many students **makes for a better FYP experience** in my opinion. I know that my supervisor can take time to go through all my work and questions and respond with a thorough answer instead of a half-assed one (no offense). 
 	<br>
 	<br>
-	
+
 ---
 
 ### Choosing Project Title vs. Supervisor: Which to Prioritise?
