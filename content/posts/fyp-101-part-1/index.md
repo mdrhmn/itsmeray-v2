@@ -24,9 +24,11 @@ Before that, full disclaimers:
 2. My sharing is grounded or limited on the **context of FYP in FCSIT UM for Software Engineering department only** and may not be fully applicable to those from other institutions or even other disciplines of my own faculty.
 3. The focus of this blog is more about sharing the things that are often **left out/only discovered after going through FYP** that I felt **everyone should know in advance/in hindsight** and less about the things that you will eventually be briefed by the faculty's FYP coordinator.
 
-I will divide this blog post into several parts, depending on how lengthy it is for easy readbility. 
+This article series will be divided into several parts for easy readability, starting with the first one regarding pre-FYP preparation.
 
 Without further ado, let's get right into it!
+
+---
 
 ## Part 1: Pre-FYP Preparation
 
@@ -264,6 +266,30 @@ In this situation, it can be difficult to know at first which one is more import
 From my experience, at some of the **lowest moments of your FYP journey**, sometimes the **passion that you had** when you chose the title is the **main if not the *only* thing that can motivate you**. Not whether or not your supervisor is nice to you or is lenient in giving marks. In other words, **whether the project title resonates with your interest will carry you a long way**.
 
 So, it's fine if you chose a project title that you really like, but your eventual supervisor may or may not be your first choice. In fact, this was *precisely* the case for my FYP. I was fixated at the project title of my supervisor when I first heard of it, but there's a catch: I never once was taught or even met this lecturer before. Therefore, it was a risk for me to take her as my supervisor and during FYP1 especially, we got off to a bit of a rough start. 
+
+---
+
+### FYP1 vs. FYP2
+
+At this point, you probably already knew about FYP (or officially called as Academic Project in the course plan) being **divided into 2 parts**: **Academic Project I** and **Academic Project II**. Throughout not only this blog post but also the entire article series, I will refer to these two with their colloquial terms FYP1 and FYP2 respectively. 
+
+I will not go too deep into the details for the difference between the two, as everyone will eventually be briefed by the faculty's FYP coordinator regarding this, via [this PDF linked from the coordinator's personal site](http://hairulnizam.my/fyp/BriefingFYP1.pdf). Note that the contents of the slides are a bit outdated (it still uses screenshots of the old Ilmiah system) and therefore will be subjected to changes in the future.
+
+The following is an excerpt of the slide showing an overview of the differences between FYP1 and FYP2:
+
+<div align="center">
+<img src="../fyp-101-part-1/assets/BriefingFYP1-04.png" width="100%">
+<img src="../fyp-101-part-1/assets/BriefingFYP1-05.png" width="100%">
+<img src="../fyp-101-part-1/assets/BriefingFYP1-09.png" width="100%">
+</div>
+
+As you can see, **FYP2** is being **allocated more credit hours (5)** compared to FYP1 (3). This is because **most of the development of your system will occur during FYP2 instead of FYP1**, where you will mostly be dealing with literature review research and outline your project proposal. 
+
+It is also expected for you to take FYP1 and FYP2 during your 6th and 7th (final) semester, though this is not set in stone as there are others who may either take these courses early (due to postponing their industrial training) or later (going for exchange). Please also note that for FCSIT UM Data Science students, they will be taking their FYP first before undergoing their internship.
+
+Finally, you can see the weightage for the evaluation for each course. **Both FYP1 and FYP2 have the same assessment components**, where **60%** will be evaluated by the **appointed panels** by each department FYP coordinator through your **final presentation** and **viva session** while the remaining **40%** will be **assessed entirely** by your own **supervisor** for the **final report submission**. 
+
+I will spare the in-depth details regarding FYP1 and FYP2 in later parts of this article series. As I mentioned in my disclaimer, they will be focusing more on my experience. I will not go through much of the stuff that I'm sure that the faculty's FYP coordinator will brief further in detail and with more updated information later on. 
 
 ---
 
