@@ -309,7 +309,7 @@ I've outlined 3 main aspects that I personally considered to share to everyone:
     <img src="../fyp-101-part-1/assets/umexpert.png" width="100%">
     </div>
 	<br>
-	
+
 	The reason why it's important to take into account a supervisor's experience and research interests is because you would want to **ensure that your project title** (especially if you propose your own) is **aligned with their areas of expertise** so that they can **advise you better**. 
 	<br>
 	<br>
@@ -317,7 +317,8 @@ I've outlined 3 main aspects that I personally considered to share to everyone:
 	<br>
 	<br>
 	Therefore, take some time to also consider a supervisor's expertise when scouting for one and don't just favour a supervisor simply because they're nice.
-
+	<br>
+	<br>
 3. **Number of students handled**
 	<br>
 	<br>
