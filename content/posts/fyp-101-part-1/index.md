@@ -281,7 +281,7 @@ I've outlined 3 main aspects that I personally considered to share to everyone:
     This first aspect depends a lot on one's preference. **Active** here refers to the type of supervision where the **supervisor exerts a lot of control over your FYP**. For example, the supervisor might have already secured and contacted stakeholders for you, requires frequent meetings and updates and generally have pre-defined most of the scope and requirements of the project. 
 	<br>
 	<br>
-    The biggest pros of this supervision style is that **you don't really have to do much apart from developing the system**. All you have to do is just follow the path already laid upon you. There's no need to start from scratch and find stakeholders on your own for example. I noticed that supervisors who adopted this approach are usually the ones where the stakeholders of their proposed project titles are their friends or colleagues. 
+    The biggest pros of this supervision style is that **you don't really have to do much apart from developing the system**. All you have to do is just follow the path and roadmap already laid upon you. There's no need to start from scratch and find stakeholders on your own for example (though you still be in charge of liaising with them). I noticed that supervisors who adopted this approach are usually the ones where the stakeholders of their proposed project titles are their friends or colleagues. 
 	<br>
 	<br>
 	The cons however, is that you might have **little say** over **how the project should chart its course**. This type of supervision is what most students would say as 'strict'. Most of the requirements are already set in stone and aren't likely to change much if not at all, which make these projects more suited towards Waterfall SDLC model. They might also be critical towards the system design such as the diagrams (use case, class etc.), the wordings of the individual requirements and the format and writing of the final report. If you wish to propose your own changes or ideas, you will have to go through some level of scrutiny. Basically, there's a **higher tendency** of the supervisor **micro-managing** your project.
@@ -308,7 +308,8 @@ I've outlined 3 main aspects that I personally considered to share to everyone:
     <div align="center">
     <img src="../fyp-101-part-1/assets/umexpert.png" width="100%">
     </div>
-
+	<br>
+	
 	The reason why it's important to take into account a supervisor's experience and research interests is because you would want to **ensure that your project title** (especially if you propose your own) is **aligned with their areas of expertise** so that they can **advise you better**. 
 	<br>
 	<br>
