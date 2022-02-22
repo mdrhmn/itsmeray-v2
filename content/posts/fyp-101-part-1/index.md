@@ -32,7 +32,68 @@ Without further ado, let's get right into it!
 
 ## Part 1: Pre-FYP Preparation
 
-Prior to the start of my FYP, I did several forms of preparations before embarking on this arduous 2-semester journey:
+
+### FYP1 vs. FYP2
+
+In case you don't know, FYP (or officially called as Academic Project in the course plan) in FCSIT UM is being **divided into 2 parts**: **Academic Project I** and **Academic Project II**. Throughout not only this blog post but also the entire article series, I will refer to these two with their colloquial terms FYP1 and FYP2 respectively. 
+
+I will not go too deep into the details for the difference between the two, as everyone will eventually be briefed by the faculty's FYP coordinator regarding this, via [this PDF linked from the coordinator's personal site](http://hairulnizam.my/fyp/BriefingFYP1.pdf). Note that the contents of the slides are a bit outdated (it still uses screenshots of the old Ilmiah system) and therefore will be subjected to changes in the future.
+
+The following is an excerpt of the slide showing an overview of the differences between FYP1 and FYP2:
+
+<div align="center">
+<img src="../fyp-101-part-1/assets/BriefingFYP1-04.png" width="100%">
+<img src="../fyp-101-part-1/assets/BriefingFYP1-05.png" width="100%">
+<img src="../fyp-101-part-1/assets/BriefingFYP1-09.png" width="100%">
+</div>
+
+As you can see, **FYP2** is being **allocated more credit hours (5)** compared to **FYP1 (3)**. This is because **most of the development of your system will occur during FYP2 instead of FYP1**, where you will mostly be dealing with literature review research and outline your project proposal. 
+
+It is also expected for you to **take FYP1 and FYP2 during your 6th and 7th (final) semester** as outlined in the course plan, though this is **not set in stone** as there are others who may either take these courses early (due to postponing their industrial training) or later (going for exchange). Please also note that for FCSIT UM Data Science students, they will be taking their FYP first before undergoing their internship.
+
+Finally, you can see the weightage for the evaluation for each course. **Both FYP1 and FYP2 have the same assessment components**, where **60%** will be evaluated by the **appointed panels** by each department FYP coordinator through your **final presentation** and **viva session** while the remaining **40%** will be **assessed entirely** by your own **supervisor** for the **final report submission**. 
+
+Although FYP1 and FYP2 are separate courses, it **does not mean that you will conduct 2 separate projects**. Instead, it is a **continuous development** of a **single project** across the span of 2 semesters with **separate evaluations**. If you screw up your FYP1, you still have a chance to redeem yourself in FYP2.
+
+I will spare the in-depth details regarding FYP1 and FYP2 in later parts of this article series. As I mentioned in my disclaimer, they will be focusing more on my experience. I will not go through much of the stuff that I'm sure that the faculty's FYP coordinator will brief further in detail and with more updated information later on. 
+
+---
+
+### IPPI vs, Conventional FYP
+
+While almost everyone knows that FYP is divided into 2 separate courses, very few know that there are **2 types of FYP** that FCSIT UM students can undertake in the faculty. 
+
+The first one is what I would call as a **conventional FYP** (or sometimes just known as normal FYP). This is what ~99% of students including myself will most likely take. 
+
+The second type which is often unheard of until the day of FYP1 briefing is **Innovative Product Project Initiative (IPPI)**, a special FYP programme proposed by the faculty. It is an initiative to produce final year projects that are focusing more towards **product innovation**, prioritising on **commercialisation and marketability** through **active involvement with the industry**.
+
+The following screenshots summarises IPPI. **IPPI projects must be conducted in a group** of usually **3-5 cross-majoring students** unlike normal FYP. **Cross-majoring** means that **all group members must come from different departments**. Because of the involvement of students from different departments, there will be multiple supervisors in a team as each student will have their own supervisor. 
+
+<div align="center">
+<img src="../fyp-101-part-1/assets/BriefingFYP1-18.png" width="100%">
+<img src="../fyp-101-part-1/assets/BriefingFYP1-19.png" width="100%">
+<img src="../fyp-101-part-1/assets/BriefingFYP1-20.png" width="100%">
+</div>
+
+The project title will also **come from industrial partners (usually big ones)**, therefore your stakeholders will also come from the industry. That is not the case for conventional FYP as the title will first be proposed by the supervisor and students can choose to collaborate with not just industrial representatives but also individuals from other organisations or domains as long as they can aid you in acquiring requirements for the project. 
+
+<div align="center">
+<img src="../fyp-101-part-1/assets/BriefingFYP1-21.png" width="100%">
+</div>
+
+The idea behind this implementation is that, **students from different disciplines can work together** and **combine their unique skill sets** to come up with an innovative project that is ready for commercialisation. For example, one of my friends from Software Engineering took IPPI as his FYP with collaboration with Malaysia Airports. In that project, he is in charge of developing the mobile application part of the system. The Artificial Intelligence department representative will develop a recommendation system while his teammate from Information Systems will handle the web application as well as data visualisation and analytics.
+
+The following table shows the summary of the key differences between IPPI and conventional FYP:
+
+<div align="center">
+<img src="../fyp-101-part-1/assets/BriefingFYP1-22.png" width="100%">
+</div>
+
+As for which one is better, I cannot say for sure as I'm only limited to my experience in conducting my FYP conventionally. The biggest advantage of IPPI that I can see is the valuable experience that you can get from collaborating directly with the industry. In my opinion, you should only take IPPI if you are certainly the type that not only prefers to work in group, but can handle the pressure of working alongside the industry. 
+
+If you want to know about IPPI from a student's perspective, feel free to contact me personally for me to provide you my friend's contact number.
+
+---
 
 ### Solo vs. Duo vs. Group: Which one is better?
 
@@ -255,6 +316,25 @@ I've outlined 2 main aspects that I personally considered to share to everyone:
 	<br>
 	Therefore, take some time to also consider a supervisor's expertise when scouting for one and don't just favour a supervisor simply because they're nice.
 
+3. **Number of students handled**
+	<br>
+	<br>
+	This last factor considers **how many students does a given supervisor expect to handle for FYP** during that semester. As I mentioned previously, by right all lecturers are given a certain quota to propose several project titles for students to choose from. But in reality, **not all lecturers will propose a title/supervise any student** due to reasons such as sabatical leave. Even if they do, **different lecturers will handle different number of students**. Some lecturers may supervise up to 10 students (individual/pair/group) while others may only supervise 1 or 2.
+	<br>
+	<br>
+	How does the number of students supervised by a lecturer affect your FYP experience? 
+	<br>
+	<br>
+	Well, if your supervisor **only supervises you and a few students**, then they can **allocate more time and attention** in advising you on your project. You can have the **flexibility** to **organise more frequent meetings** and **gain specific/personalised advises** on how to go forward with your project. 
+	<br>
+	<br>
+	Meanwhile, if your supervisor handles a lot of students, you **cannot expect your supervisor to give 100% attention to your project alone**. **Meetings** are also **sometimes conducted together** with students from other projects, where each project will take turn to report their progress which means you only have a small window of time to ask any questions. 
+	<br>
+	<br>
+	For my FYP experience, I **belonged in the first case** as my partner and I were the *only* students that my supervisor handled. She initially proposed 2 project titles but we were the only ones who took up one of them. Hence, I can vouch that having a supervisor that does not handle too many students **makes for a better FYP experience** in my opinion. I know that my supervisor can take time to go through all my work and questions and respond with a thorough answer instead of a half-assed one (no offense). 
+	<br>
+	<br>
+	
 ---
 
 ### Choosing Project Title vs. Supervisor: Which to Prioritise?
@@ -265,31 +345,7 @@ In this situation, it can be difficult to know at first which one is more import
 
 From my experience, at some of the **lowest moments of your FYP journey**, sometimes the **passion that you had** when you chose the title is the **main if not the *only* thing that can motivate you**. Not whether or not your supervisor is nice to you or is lenient in giving marks. In other words, **whether the project title resonates with your interest will carry you a long way**.
 
-So, it's fine if you chose a project title that you really like, but your eventual supervisor may or may not be your first choice. In fact, this was *precisely* the case for my FYP. I was fixated at the project title of my supervisor when I first heard of it, but there's a catch: I never once was taught or even met this lecturer before. Therefore, it was a risk for me to take her as my supervisor and during FYP1 especially, we got off to a bit of a rough start. 
-
----
-
-### FYP1 vs. FYP2
-
-At this point, you probably already knew about FYP (or officially called as Academic Project in the course plan) being **divided into 2 parts**: **Academic Project I** and **Academic Project II**. Throughout not only this blog post but also the entire article series, I will refer to these two with their colloquial terms FYP1 and FYP2 respectively. 
-
-I will not go too deep into the details for the difference between the two, as everyone will eventually be briefed by the faculty's FYP coordinator regarding this, via [this PDF linked from the coordinator's personal site](http://hairulnizam.my/fyp/BriefingFYP1.pdf). Note that the contents of the slides are a bit outdated (it still uses screenshots of the old Ilmiah system) and therefore will be subjected to changes in the future.
-
-The following is an excerpt of the slide showing an overview of the differences between FYP1 and FYP2:
-
-<div align="center">
-<img src="../fyp-101-part-1/assets/BriefingFYP1-04.png" width="100%">
-<img src="../fyp-101-part-1/assets/BriefingFYP1-05.png" width="100%">
-<img src="../fyp-101-part-1/assets/BriefingFYP1-09.png" width="100%">
-</div>
-
-As you can see, **FYP2** is being **allocated more credit hours (5)** compared to FYP1 (3). This is because **most of the development of your system will occur during FYP2 instead of FYP1**, where you will mostly be dealing with literature review research and outline your project proposal. 
-
-It is also expected for you to take FYP1 and FYP2 during your 6th and 7th (final) semester, though this is not set in stone as there are others who may either take these courses early (due to postponing their industrial training) or later (going for exchange). Please also note that for FCSIT UM Data Science students, they will be taking their FYP first before undergoing their internship.
-
-Finally, you can see the weightage for the evaluation for each course. **Both FYP1 and FYP2 have the same assessment components**, where **60%** will be evaluated by the **appointed panels** by each department FYP coordinator through your **final presentation** and **viva session** while the remaining **40%** will be **assessed entirely** by your own **supervisor** for the **final report submission**. 
-
-I will spare the in-depth details regarding FYP1 and FYP2 in later parts of this article series. As I mentioned in my disclaimer, they will be focusing more on my experience. I will not go through much of the stuff that I'm sure that the faculty's FYP coordinator will brief further in detail and with more updated information later on. 
+So, it's fine if you chose a project title that you really like, but your eventual supervisor may or may not be your first choice or ticks all of the factors that I mentioned previously. In fact, this was *precisely* the case for my FYP. I was fixated at the project title of my supervisor when I first heard of it, but there's a catch: I never once was taught or even met this lecturer before. Therefore, it was a risk for me to take her as my supervisor and during FYP1 especially, we got off to a bit of a rough start. 
 
 ---
 
