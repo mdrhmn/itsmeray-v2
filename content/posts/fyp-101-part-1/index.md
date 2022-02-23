@@ -12,6 +12,21 @@ type: 'post'
 url: 'none'
 ---
 
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [Introduction](#introduction)
+- [Part 1: Pre-FYP Preparation](#part-1-pre-fyp-preparation)
+	- [FYP1 vs. FYP2](#fyp1-vs-fyp2)
+	- [IPPI vs, Conventional FYP](#ippi-vs-conventional-fyp)
+	- [Solo vs. Duo vs. Group: Which one is better?](#solo-vs-duo-vs-group-which-one-is-better)
+	- [Choosing your Project Title](#choosing-your-project-title)
+	- [Choosing your Supervisor](#choosing-your-supervisor)
+	- [Choosing Project Title vs. Supervisor: Which to Prioritise?](#choosing-project-title-vs-supervisor-which-to-prioritise)
+- [Conclusion](#conclusion)
+
+---
+
 ## Introduction
 
 This blog post provides a **comprehensive guide** and **walkthrough** of my **Final Year Project (FYP) experience** for the past 2 semesters. 
