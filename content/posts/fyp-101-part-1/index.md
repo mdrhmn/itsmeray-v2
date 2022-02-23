@@ -82,7 +82,9 @@ The project title will also **come from industrial partners (usually big ones)**
 <img src="../fyp-101-part-1/assets/BriefingFYP1-21.png" width="100%">
 </div>
 
-The idea behind this implementation is that, **students from different disciplines can work together** and **combine their unique skill sets** to come up with an innovative project that is ready for commercialisation. For example, one of my friends from Software Engineering took IPPI as his FYP with collaboration with Malaysia Airports. In that project, he is in charge of developing the mobile application part of the system. The Artificial Intelligence department representative will develop a recommendation system while his teammate from Information Systems will handle the web application as well as data visualisation and analytics.
+The idea behind this implementation is that, **students from different disciplines can work together** and **combine their unique skill sets** to come up with an innovative project that is ready for commercialisation. 
+
+For example, one of my friends from Software Engineering took IPPI as his FYP with collaboration with Malaysia Airports. In that project, he is in charge of developing the mobile application part of the system. The Artificial Intelligence department representative will develop a recommendation system while his teammate from Information Systems will handle the web application as well as data visualisation and analytics.
 
 The following table shows the summary of the key differences between IPPI and conventional FYP:
 
@@ -90,7 +92,9 @@ The following table shows the summary of the key differences between IPPI and co
 <img src="../fyp-101-part-1/assets/BriefingFYP1-22.png" width="100%">
 </div>
 
-As for which one is better, I cannot say for sure as I'm only limited to my experience in conducting my FYP conventionally. The biggest advantage of IPPI that I can see is the valuable experience that you can get from collaborating directly with the industry. In my opinion, you should only take IPPI if you are certainly the type that not only prefers to work in group, but can handle the pressure of working alongside the industry. 
+As for which one is better, I cannot say for sure as I'm only limited to my experience in conducting my FYP conventionally. The biggest advantage of IPPI that I can see is the **valuable experience** that you can get from **collaborating directly and more closely with the industry**. Though, keep in mind that this is not unique to just IPPI per say as you can still collaborate with industrial representatives as your stakeholders for conventional FYP. 
+
+In my opinion, you should only take IPPI if you are the type that not only prefers to work in group, but can handle the pressure of working alongside the industry. 
 
 If you want to know about IPPI from a student's perspective, feel free to contact me personally for me to provide you my friend's contact number.
 
@@ -167,7 +171,7 @@ While their inference in correct; that my instinct is almost always to try and t
 	This is a common issue encountered by many final year students including myself, where the panels will point out during viva session (usually in FYP1) that the project requirements or proposed modules are **insufficient/not complex enough;** that they don't make full use of the number of students involved and the project can easily be done by 1 person only. That is why, generally it's easier for the panels to appreciate a complex project achieved by a single student compared to the same project developed by a group of students, which is undoubtedly an advantage for lone rangers out there.
 	<br>
 	<br>
-	Some supervisors went so far as to not recommend that students form a group for FYP and limit the number of students to a maximum of 2 (*with the exception of IPPI; more on this later*) out of concern that the students could not come up with a complex enough system, at least for the Software Engineering department in FCSIT UM. I was told that some universities even only allow their students to conduct FYP alone for CS/IT degrees, to my huge surprise. 
+	Some supervisors went so far as to **not recommend that students form a group for FYP** and **limit the number of students to a maximum of 2** (with the exception of IPPI) out of concern that the students could not come up with a complex enough system, at least for the Software Engineering department in FCSIT UM. I was told that some universities even only allow their students to conduct FYP alone for CS/IT degrees. 
 	<br>
 	<br>
 	Despite the risk, I decided to go ahead anyway and try to find an existing title or propose my own that is as complex as possible as a starting point. Sure, I can do the same while doing my FYP independently, but working with a partner **indirectly incentivises me** to constantly figure out how else can this project be improved in terms of complexity.
@@ -215,7 +219,7 @@ For FCSIT UM students, you can view the list of all published titles for each de
 <img src="../fyp-101-part-1/assets/ilmiah.png" width="100%">
 </div>
 
-Now, it goes without saying that **a student can only secure 1 project title** (*why on earth would anyone want more*) and **a project title can have multiple students**. But, one unspoken (and rather unpopular) fact is that **not all project titles are the same**. Meaning, some project titles are—at least on the surface—inherently better than others in many ways such as the following criteria:
+Now, it goes without saying that **a student can only secure 1 project title** (*why on earth would anyone want more*) and **a project title can have multiple students**. But, one unspoken (and rather unpopular) fact is that **not all project titles are the same**. Meaning, some project titles are—at least on the surface—inherently better than others in many ways such as based on the following self-outlined criteria:
 
 1. Originality
 2. Commercial value
@@ -224,7 +228,7 @@ Now, it goes without saying that **a student can only secure 1 project title** (
 5. Gravity/strength of problem statements
 6. Value of proposed product/solution. 
 
-Take complexity of project for example. **Different project titles have different ways to justify its complexity**. For instance, some may incorporate elements of data science and machine learning (e.g. developing own model, building a recommendation system), cloud computing (e.g. using technologies from AWS, Azure) or even develop both a web and mobile application of the same system (although this last example is a bit controversial).
+Take complexity of project for example. **Different project titles have different ways to justify its complexity**. For instance, some may incorporate elements of data science and machine learning (e.g. developing own model, building a recommendation system), cloud computing (e.g. using technologies from AWS, Azure) or even develop both a web and mobile application of the same system (although this last example is a bit controversial; more on this later).
 
 Because not all project titles are created equal, and the reservation of these titles come at a first-come-first-serve basis, so you have to **move fast** if you want to secure some of the best/most interesting ones. For your information, the titles will be **published** sometime around the **first week of the semester** and you're only **given 3-4 weeks after the semester commences** to **select the title of your choice** (the earlier, the better so that you can start your FYP1 literature review research early).
 
@@ -248,23 +252,34 @@ It was through this approach that I managed to secure my own FYP title. In case 
 1. It's **not just pure web development**
 	<br>
 	<br>
-    I knew from the very beginning that I didn't want my FYP to merely be a CRUD-heavy web-based system. My rationale was that it'd be nothing but just an amplified     version of my previous Web Programming course assignment. I felt that FYP is my final opportunity to diversity my skill set and branch out into other areas of computer science such as machine learning and cloud computing.
+    I knew from the very beginning that I didn't want my FYP to merely be a CRUD-heavy web-based system (I mean no disrespect to my peers or seniors who developed such system for their FYP). My rationale was that it'd be nothing but just an amplified version of my previous Web Programming course assignment. I felt that FYP is my **final opportunity** to **diversify my skill set** and **branch out into other areas** of computer science such as machine learning and cloud computing as it's highly unlikely that I would get such chance when I'm working later.
 	<br>
 	<br>
 2. **'Wow' factor** and **originality**
 	<br>
 	<br>
-    According to my soon-to-be-supervisor during our short preliminary meeting before we confirmed our title with her, the research involved in the project title is novel and has never been done before (and this has been confirmed further in our FYP1 literature review). 
+    According to my soon-to-be-supervisor during our short preliminary meeting before we confirmed our title with her, the research involved in our project title is novel and has never been done before (and this has been confirmed further in our FYP1 literature review). 
 	<br>
 	<br>
     The idea that my partner and I will be bringing something new onto the table is deeply intriguing. In some weird way, we felt it in our guts at the time when we're surveying titles that this particular project can really go far. 
 	<br>
 	<br>
+	That being said, please **do not mistaken my reasoning** as implying that **only fully original projects are good ones**. That could not stray further from the truth. Just because your proposed system is new doesn't always mean that it's good.
+	<br>
+	<br>
+	Similar systems related to your project could have already existed in status quo (in fact, that's most likely the case) and you can still add the 'wow' factor by improving it further. 
+	<br>
+	<br>
 3. **Complexity in Scope**
 	<br>
 	<br>
-    As mentioned earlier, the complexity of your system also affects the evaluation of your FYP. Because our project involves both machine learning and Internet of Things (IoT), my partner and I were confident that this alone will help in increasing the level of complexity of our project.
-
+    As mentioned earlier, the **complexity of your system also affects the evaluation of your FYP**. Because our project involves both machine learning and Internet of Things (IoT), my partner and I were confident that this alone will help in increasing the level of complexity of our project.
+	<br>
+	<br>
+	Of course, that doesn't mean you _have_ to incorporate ML or cloud technologies to make your project complex. Even **adding more CRUD-based modules** in your web application can help increase the complexity. Other strategies that I noticed from my peers include **developing a mobile app counterpart**, **adding gamification elements** and **integrating payment gateways**.
+	<br>
+	<br>
+	
 ---
 
 ### Choosing your Supervisor
@@ -338,6 +353,8 @@ I've outlined 3 main aspects that I personally considered to share to everyone:
 	<br>
 	<br>
 
+These are just some of the factors that I personally considered. Please note that **just because your chosen supervisor doesn't agree with the criteria mentioned above doesn't mean it's game over**. There's so much more pertaining to your FYP that's arguably more crucial than your supervisor as discussed in the next part.
+
 ---
 
 ### Choosing Project Title vs. Supervisor: Which to Prioritise?
@@ -348,10 +365,10 @@ In this situation, it can be difficult to know at first which one is more import
 
 From my experience, at some of the **lowest moments of your FYP journey**, sometimes the **passion that you had** when you chose the title is the **main if not the *only* thing that can motivate you**. Not whether or not your supervisor is nice to you or is lenient in giving marks. In other words, **whether the project title resonates with your interest will carry you a long way**.
 
-So, it's fine if you chose a project title that you really like, but your eventual supervisor may or may not be your first choice or ticks all of the factors that I mentioned previously. In fact, this was *precisely* the case for my FYP. I was fixated at the project title of my supervisor when I first heard of it, but there's a catch: I never once was taught or even met this lecturer before. Therefore, it was a risk for me to take her as my supervisor and during FYP1 especially, we got off to a bit of a rough start. 
+So, it's fine if you chose a project title that you really like, but your eventual supervisor may or may not be your first choice or ticks all of the factors that I mentioned previously. In fact, this was *precisely* the case for my FYP. I was fixated at the project title of my supervisor when I first heard of it, but there's a catch: I never once was taught or even met this lecturer before. Therefore, it was a risk for me to take her as my supervisor and during FYP1 especially, we got off to a bit of a rough start at first. But eventually, things worked out at the end.
 
 ---
 
 ## Conclusion
 
-That wraps up the very first part of my FYP sharing! Hope you guys like it and do let me know if you want to see the next part, which will focus more on the details during FYP1. 
+That wraps up the very first part of my FYP sharing! Hope you guys like it and do let me know if you want to see the next part, which will focus more on the details during FYP1. Feel free to share it to anyone who may benefit from this. I will try my best to continue with the other parts during my free time in the future.
