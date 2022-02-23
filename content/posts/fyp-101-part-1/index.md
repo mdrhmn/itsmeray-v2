@@ -22,10 +22,11 @@ Before that, full disclaimers:
 
 1. **All views expressed in this post are my own**. This article showcases my own **subjective view** and apart from the backing of my own credibility, it does not represent the faculty's official recommendations or views whatsoever. 
 2. My sharing is grounded or limited on the **context of FYP in FCSIT UM for Software Engineering department only** and may not be fully applicable to those from other institutions or even other disciplines of my own faculty.
-3. The focus of this blog is more about sharing the things that are often **left out/only discovered after going through FYP** that I felt **everyone should know in advance/in hindsight** and less about the things that you will eventually be briefed by the faculty's FYP coordinator.
-4. Please keep in mind that FYP like most subject matters can be incredibly **nuanced** and **no one single anecdote or guide** can be **exhaustive and comprehensive enough** to cover everything.
+3. The focus of this blog is more about sharing the things that are often **left out/only discovered after going through FYP** that I felt **everyone should know in advance/in hindsight** and less about the technical things that you will eventually be briefed by the faculty's FYP coordinator prior to the start of your FYP.
+4. Please keep in mind that FYP like most subject matters can be incredibly **nuanced** and **no one single anecdote or guide** including this one can be **exhaustive and comprehensive enough** to cover everything.
+5. If there are **any inaccuracies** in the information that is provided in this post or any future posts in the article series, please **do not hesitate** to **message me personally** and **correct me**.
 
-This article series will be divided into several parts for easy readability, starting with the first one regarding pre-FYP preparation.
+This article series will be divided into several parts for easy readability, starting with the first one regarding **pre-FYP preparation**.
 
 Without further ado, let's get right into it!
 
@@ -265,10 +266,10 @@ It was through this approach that I managed to secure my own FYP title. In case 
     The idea that my partner and I will be bringing something new onto the table is deeply intriguing. In some weird way, we felt it in our guts at the time when we're surveying titles that this particular project can really go far. 
 	<br>
 	<br>
-	That being said, please **do not mistaken my reasoning** as implying that **only fully original projects are good ones**. That could not stray further from the truth. Just because your proposed system is new doesn't always mean that it's good.
+	That being said, please **do not mistaken my reasoning** as implying that **only fully original projects are good ones**. That could not stray further from the truth. **Just because your proposed system is new doesn't always mean that it's good**.
 	<br>
 	<br>
-	Similar systems related to your project could have already existed in status quo (in fact, that's **most likely the case**) and you can still add the 'wow' factor by improving it further. How to do that depends on the type of project that you will be doing and it's part of the challenge of doing your FYP.
+	Similar systems related to your project could have already existed in status quo (in fact, that's **most likely the case**) and you can still add the 'wow' factor by improving it further. How to do that and what exactly defines a 'wow' factor depends a lot on the type of project that you will be doing and it's part of the challenge of doing your FYP.
 	<br>
 	<br>
 3. **Complexity in Scope**
