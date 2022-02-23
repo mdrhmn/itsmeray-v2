@@ -14,14 +14,14 @@ url: 'none'
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [Introduction](#introduction)
+- [Table of Contents](#Table-of-Contents)
+- [Introduction](#Introduction)
 - [Part 1: Pre-FYP Preparation](#Part-1-Pre-FYP-Preparation)
 	- [FYP1 vs. FYP2](#FYP1-vs-FYP2)
 	- [IPPI vs, Conventional FYP](#IPPI-vs-Conventional-FYP)
 	- [Solo vs. Duo vs. Group: Which is Better?](#Solo-vs-Duo-vs-Group-Which-is-Better)
 	- [Choosing your Project Title](#Choosing-your-Project-Title)
-	- [Choosing your Supervisor](#Choosing-your-Project-Title)
+	- [Choosing your Supervisor](#Choosing-your-Supervisor)
 	- [Choosing Project Title vs. Supervisor: Which to Prioritise?](#Choosing-Project-Title-vs-Supervisor-Which-to-Prioritise)
 - [Conclusion](#Conclusion)
 
