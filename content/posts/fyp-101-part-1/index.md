@@ -17,13 +17,13 @@ url: 'none'
 - [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
 - [Part 1: Pre-FYP Preparation](#Part-1-Pre-FYP-Preparation)
-	- [FYP1 vs. FYP2](#fyp1-vs-fyp2)
-	- [IPPI vs, Conventional FYP](#ippi-vs-conventional-fyp)
-	- [Solo vs. Duo vs. Group: Which one is better?](#solo-vs-duo-vs-group-which-one-is-better)
-	- [Choosing your Project Title](#choosing-your-project-title)
-	- [Choosing your Supervisor](#choosing-your-supervisor)
-	- [Choosing Project Title vs. Supervisor: Which to Prioritise?](#choosing-project-title-vs-supervisor-which-to-prioritise)
-- [Conclusion](#conclusion)
+	- [FYP1 vs. FYP2](#FYP1-vs-FYP2)
+	- [IPPI vs, Conventional FYP](#IPPI-vs-Conventional-FYP)
+	- [Solo vs. Duo vs. Group: Which is Better?](#Solo-vs-Duo-vs-Group-Which-is-Better)
+	- [Choosing your Project Title](#Choosing-your-Project-Title)
+	- [Choosing your Supervisor](#Choosing-your-Project-Title)
+	- [Choosing Project Title vs. Supervisor: Which to Prioritise?](#Choosing-Project-Title-vs-Supervisor-Which-to-Prioritise)
+- [Conclusion](#Conclusion)
 
 ---
 
@@ -117,7 +117,7 @@ If you want to know about IPPI from a student's perspective, feel free to contac
 
 ---
 
-### Solo vs. Duo vs. Group: Which one is better?
+### Solo vs. Duo vs. Group: Which is Better?
 
 One of the initial dilemmas *way before* the FYP journey even began (*as early as during my second year*) was deciding on whether I wanted to do my FYP **alone**, **together with a partner** or **in a group**. 
 
