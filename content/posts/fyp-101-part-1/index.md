@@ -16,7 +16,7 @@ url: 'none'
 
 - [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
-- [Part 1: Pre-FYP Preparation](#part-1-pre-fyp-preparation)
+- [Part 1: Pre-FYP Preparation](#Part-1-Pre-FYP-Preparation)
 	- [FYP1 vs. FYP2](#fyp1-vs-fyp2)
 	- [IPPI vs, Conventional FYP](#ippi-vs-conventional-fyp)
 	- [Solo vs. Duo vs. Group: Which one is better?](#solo-vs-duo-vs-group-which-one-is-better)
