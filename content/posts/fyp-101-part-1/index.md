@@ -230,7 +230,9 @@ At least in FCSIT UM, students are allowed to either **choose an existing title*
 
 Picking an existing title is the **most popular** among students and arguably the **default** option. Generally, all lecturers or supervisors of each department in the faculty are required to supervise a certain number of students, and therefore will need to provide several titles for the students to choose from. This is to ensure that there's going to be enough titles available to cater for everyone, at least ideally speaking.
 
-For FCSIT UM students, you can view the list of all published titles for each department from the recently revamped [FSKTM UM Ilmiah site](https://ilmiah.fsktm.um.edu.my/) by clicking the [Project link](https://ilmiah.fsktm.um.edu.my/project/list) at the top navigation bar. And yes, you don't have to log in to do just that. Your login credentials will be given by the faculty's FYP coordinator during the briefing held prior to the start of FYP1, which is compulsory for all final year students who will be taking FYP1 to attend. You mostly need to log in to submit your FYP deliverables notably the Google Drive links to your monitoring presentation, final presentation and final report. 
+For FCSIT UM students, you can view the list of all published titles for each department from the recently revamped [FCSIT UM Ilmiah site](https://ilmiah.fsktm.um.edu.my/) by clicking the [Project link](https://ilmiah.fsktm.um.edu.my/project/list) at the top navigation bar. And yes, you don't have to log in to do just that. Your login credentials will be given by the faculty's FYP coordinator during the briefing held prior to the start of FYP1, which is compulsory for all final year students who will be taking FYP1 to attend. You mostly need to log in to submit your FYP deliverables notably the Google Drive links to your monitoring presentation, final presentation and final report. 
+
+Once you found a project title that piqued your interest, you can **reserve/confirm the title** by **contacting the corresponding supervisor** preferably via **email** (as of time of writing, the Ilmiah system does not have a built-in reservation system).
 
 <div align="center">
 <img src="../fyp-101-part-1/assets/ilmiah.png" width="100%">
@@ -257,7 +259,7 @@ And that's precisely what my partner and I did before FYP1 started. Rather than 
 <img src="../fyp-101-part-1/assets/trello_screenshot.png" width="100%">
 </div>
 
-Keep in mind that, not all lecturers may have their titles ready by the time you emailed them as they might have not been approved by the FYP coordinator yet and therefore may not even be willing to release their titles early. But from our experience, most if not all of the lecturers are totally fine with it. Some even commended our effort for approaching supervisors early! You can see from the screenshots below for an except of the email we sent as well as the replies we got from some of the supervisors. 
+Keep in mind that, **not all lecturers may have their titles ready** by the time you emailed them as they might have not been approved by the FYP coordinator yet and therefore may not even be willing to release their titles early. But from our experience, most if not all of the lecturers are totally fine with it. Some even commended our effort for approaching supervisors early! You can see from the screenshots below for an except of the email we sent as well as the replies we got from some of the supervisors. 
 
 <div align="center">
 <img src="../fyp-101-part-1/assets/email_screenshot_2.png" width="100%">
@@ -281,10 +283,10 @@ It was through this approach that I managed to secure my own FYP title. In case 
     The idea that my partner and I will be bringing something new onto the table is deeply intriguing. In some weird way, we felt it in our guts at the time when we're surveying titles that this particular project can really go far. 
 	<br>
 	<br>
-	That being said, please **do not mistaken my reasoning** as implying that **only fully original projects are good ones**. That could not stray further from the truth. **Just because your proposed system is new doesn't always mean that it's good**.
+	That being said, please **do not mistake my reasoning** as implying that **only fully original projects are good ones**. That could not stray further from the truth. **Just because your proposed system is new doesn't always mean that it's good**.
 	<br>
 	<br>
-	Similar systems related to your project could have already existed in status quo (in fact, that's **most likely the case**) and you can still add the 'wow' factor by improving it further. How to do that and what exactly defines a 'wow' factor depends a lot on the type of project that you will be doing and it's part of the challenge of doing your FYP.
+	Similar systems related to your project could have already existed in status quo (in fact, that's **most likely the case**) and you can still add the 'wow' factor by improving it further. How to do that and what exactly defines a 'wow' factor depends a lot on the project that you will be doing and it's part of the challenge of doing your FYP.
 	<br>
 	<br>
 3. **Complexity in Scope**
