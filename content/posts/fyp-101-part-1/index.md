@@ -295,7 +295,13 @@ It was through this approach that I managed to secure my own FYP title. In case 
     As mentioned earlier, the **complexity of your system also affects the evaluation of your FYP**. Because our project involves both machine learning and Internet of Things (IoT), my partner and I were confident that this alone will help in increasing the level of complexity of our project.
 	<br>
 	<br>
-	Of course, that doesn't mean you _have_ to incorporate ML or cloud technologies to make your project complex. Even **adding more CRUD-based modules** in your web application can help increase the complexity. Other strategies that I noticed from my peers include **developing a mobile app counterpart**, **adding gamification elements** and **integrating payment gateways**.
+	Of course, that doesn't mean you _have_ to incorporate ML or cloud technologies to make your project complex. For Software Engineering students, there is also a risk of adding elements which do not have much relation to our discipline. For instance, some panels in the SE department **may not be able to fully comprehend and appreciate** the machine learning work that you've done as it's mostly back-end work. To them, it's merely just importing existing libraries and making it work when in reality it's so, so much more than that.
+	<br>
+	<br>
+	Even **adding more CRUD-based modules** in your web application can help increase the complexity. Other strategies that I noticed from my peers include **developing a mobile app counterpart**, **adding gamification elements** and **integrating payment gateways**. 
+	<br>
+	<br>
+	Regardless of the method you choose to increase your system complexity, what you need to keep in mind is that **you cannot simply increase your project complexity just for the sake of doing on**e. Whatever elements or modules that you plan to add has to **make sense** in terms of the **overall picture** of how your system works.
 	<br>
 	<br>
 
