@@ -16,7 +16,7 @@ url: 'none'
 
 - [Table of Contents](#Table-of-Contents)
 - [Introduction](#Introduction)
-- [Who Am I?](#Who-Am-I?)
+- [Who Am I?](#Who-Am-I)
 - [Part 1: Pre-FYP Preparation](#Part-1-Pre-FYP-Preparation)
 	- [FYP1 vs. FYP2](#FYP1-vs-FYP2)
 	- [IPPI vs, Conventional FYP](#IPPI-vs-Conventional-FYP)
