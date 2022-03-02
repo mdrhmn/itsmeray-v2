@@ -16,6 +16,7 @@ url: 'none'
 
 - [Table of Contents](#Table-of-Contents)
 - [Introduction](#Introduction)
+- [Who Am I?](#Who-Am-I?)
 - [Part 1: Pre-FYP Preparation](#Part-1-Pre-FYP-Preparation)
 	- [FYP1 vs. FYP2](#FYP1-vs-FYP2)
 	- [IPPI vs, Conventional FYP](#IPPI-vs-Conventional-FYP)
@@ -44,6 +45,36 @@ Before that, full disclaimers:
 This article series will be divided into several parts for easy readability, starting with the first one regarding **pre-FYP preparation**.
 
 Without further ado, let's get right into it!
+
+---
+
+## Who Am I?
+
+<br>
+
+Before we dive into the content of the blog itself, I feel obliged to first briefly introduce myself to prove my credibility. After all, **why should you trust my opinion/judgement**?
+
+I am a **recent graduate** (fresh from the oven) of FCSIT UM who currently works as a **Software Engineer** at **Dell Technologies Malaysia**, based in Cyberjaya.
+
+When it comes to my Final Year Project (FYP), I managed to **obtain A+** for **both my FYP1 and FYP2**. 
+<br>
+
+<div align="center">
+<img src="../fyp-101-part-1/assets/sem_6_result.jpeg" width="100%">
+<img src="../fyp-101-part-1/assets/sem_7_result.jpeg" width="100%">
+</div>
+<br>
+
+On top of that, my project has also received multiple accolades including **Gold Medal Winner (Young Ideation Category)** for **International Digital Innovation in Wellness (DInoWEx2021)** and **Champion (IET Innovation Award)** &amp; **Second Runner Up (Young Innovator Award)** for **IEEE Malaysia Final Year Project (FYP) Competition 2021**.
+
+<br>
+<div align="center">
+<img src="../fyp-101-part-1/assets/ieee_result.jpg" width="100%">
+<img src="../fyp-101-part-1/assets/dinowex_gold.png" width="100%">
+</div>
+<br>
+
+So in some ways, I think I **hold some degree of qualifications** to provide some handy tips and tricks on how to survive your FYP which is undoubtedly going to be the hardest phase of your degree life (which is kind of expected). Of course, I'm **not always right** so **reader's discretion is very much advised**.
 
 ---
 
