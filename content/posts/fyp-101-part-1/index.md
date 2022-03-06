@@ -351,7 +351,9 @@ As I mentioned previously, you can also propose your own project title to your p
 
 Such was the case for myself and my partner during our search for our project title. We actually **prepared our own proposals** for 3 different project titles that we brainstormed ourselves as backup in case none of the existing project titles in Ilmiah are not to our taste. I've included [one of them as an example](../fyp-101-part-1/assets/proposal_example.pdf) for your reference. The format is somewhat arbitrary and you don't necessarily have to follow the exact format in the example. What matters most is the **problem statement**, **objectives** and **proposed modules** of the system. You can go for more detail but I suggest to **keep it brief and concise** as to not burden the lecturer reading it.
 
-For us, we **prioritise the supervisors' titles proposed in Ilmiah over our own** mostly on the basis that the supervisors most likely have given far more thought into their own proposed titles than the ones we come up ourselves, but it is up to your own preference.
+For us, we **prioritise the supervisors' titles proposed in Ilmiah over our own** mostly on the basis that the supervisors most likely have given far more thought into their own proposed titles than the ones we come up ourselves, but at the end of the day it is **up to your own preference**. 
+
+Even if you have ideas of your own, you can always **choose the most relevant existing title** as **starting point** and try to **incorporate your ideas** from there. Remember, **these titles are not static in nature**. Their brief descriptions are just **initial impressions/plans** and are **intentionally not clearly defined**. It is up to you later own to define the scope based on your **literature review research**, **requirements elicted** from your stakeholders and **counsel from your supervisor**.
 
 ---
 
