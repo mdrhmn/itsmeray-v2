@@ -22,6 +22,7 @@ url: 'none'
 	- [IPPI vs, Conventional FYP](#IPPI-vs-Conventional-FYP)
 	- [Solo vs. Duo vs. Group: Which is Better?](#Solo-vs-Duo-vs-Group-Which-is-Better)
 	- [Choosing your Project Title](#Choosing-your-Project-Title)
+	- [Proposing your Own Project Title](#Proposing-your-Own-Project-Title)
 	- [Choosing your Supervisor](#Choosing-your-Supervisor)
 	- [Choosing Project Title vs. Supervisor: Which to Prioritise?](#Choosing-Project-Title-vs-Supervisor-Which-to-Prioritise)
 - [Conclusion](#Conclusion)
@@ -259,11 +260,17 @@ Another important step towards your FYP journey is... well, deciding what projec
 
 At least in FCSIT UM, students are allowed to either **choose an existing title** provided by a supervisor, or **propose your own** to the supervisor of your choice. 
 
-Picking an existing title is the **most popular** among students and arguably the **default** option. Generally, all lecturers or supervisors of each department in the faculty are required to supervise a certain number of students, and therefore will need to provide several titles for the students to choose from. This is to ensure that there's going to be enough titles available to cater for everyone, at least ideally speaking.
+Picking an existing title is the **most popular** among students and arguably the **default** option, which is what I will cover first. Generally, all lecturers or supervisors of each department in the faculty are required to supervise a certain number of students, and therefore will need to provide several titles for the students to choose from. This is to ensure that there's going to be enough titles available to cater for everyone, at least ideally speaking.
 
 For FCSIT UM students, you can view the list of all published titles for each department from the recently revamped [FCSIT UM Ilmiah site](https://ilmiah.fsktm.um.edu.my/) by clicking the [Project link](https://ilmiah.fsktm.um.edu.my/project/list) at the top navigation bar. And yes, you don't have to log in to do just that. Your login credentials will be given by the faculty's FYP coordinator during the briefing held prior to the start of FYP1, which is compulsory for all final year students who will be taking FYP1 to attend. You mostly need to log in to submit your FYP deliverables notably the Google Drive links to your monitoring presentation, final presentation and final report. 
 
-Once you found a project title that piqued your interest, you can **reserve/confirm the title** by **contacting the corresponding supervisor** preferably via **email** (as of time of writing, the Ilmiah system does not have a built-in reservation system).
+Once you found a project title that piqued your interest, you can **reserve/confirm the title** by **contacting the corresponding supervisor** preferably via **email** (as of time of writing, the Ilmiah system does not have a built-in reservation system). 
+
+I highly recommend that you **set up a meeting with your potential supervisors first** notifying them of your interest to know more about the titles before jumping straight to reserving a title, so that you can discuss more in depth regarding the corresponding project title. After all, there's only so much that an email conversation can carry before it becomes too bloated. Plus, it may also indirectly **give off a good impression** to them that you're enthusiastic in your pursuit to choosing your project title. 
+
+I do also need to emphasise that if you **decide to back off and not proceed** with a supervisor's project title _after_ notifying them of your interest, you can do so as long as **you haven't confirmed anything with them** and **your title has not been updated inside Ilmiah**. Please do not hesitate to contact them and tell them the truth instead of leaving them in the dark, which is disrespectful. Don't worry about disheartening them as most of them will totally understand that you're just surveying around. It is _your right_ to know the details of each project title and ultimately choose whichever one you prefer.
+
+If however, you wish to change your project title _after_ it has been confirmed with your supervisor and reflected inside Ilmiah, unfortunately I believe **you cannot do so**. But, you can try out your luck by **approaching the faculty's FYP coordinator** and describe your situation.
 
 <div align="center">
 <img src="../fyp-101-part-1/assets/ilmiah.png" width="100%">
@@ -335,6 +342,16 @@ It was through this approach that I managed to secure my own FYP title. In case 
 	Regardless of the method you choose to increase your system complexity, what you need to keep in mind is that **you cannot simply increase your project complexity just for the sake of doing on**e. Whatever elements or modules that you plan to add has to **make sense** in terms of the **overall picture** of how your system works.
 	<br>
 	<br>
+
+---
+
+### Proposing your Own Project Title
+
+As I mentioned previously, you can also propose your own project title to your preferred supervisor. Sometimes, they may require you to **provide a simple proposal** for them to review or even require you to **submit said proposal to the faculty's FYP coordinator for approval** first before proceeding further.
+
+Such was the case for myself and my partner during our search for our project title. We actually **prepared our own proposals** for 3 different project titles that we brainstormed ourselves as backup in case none of the existing project titles in Ilmiah are not to our taste. I've included [one of them as an example](../fyp-101-part-1/assets/proposal_example.pdf) for your reference
+
+For us, we **prioritise the supervisors' titles proposed in Ilmiah over our own** mostly on the basis that the supervisors most likely have given far more thought into their own proposed titles than the ones we come up ourselves, but it is up to your own preference.
 
 ---
 
