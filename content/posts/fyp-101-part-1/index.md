@@ -23,6 +23,7 @@ url: 'none'
 	- [Solo vs. Duo vs. Group: Which is Better?](#Solo-vs-Duo-vs-Group-Which-is-Better)
 	- [Choosing your Project Title](#Choosing-your-Project-Title)
 	- [Proposing your Own Project Title](#Proposing-your-Own-Project-Title)
+	- [Choosing Existing Title vs. Proposing your Own: Which is Better?](#Choosing-Existing-Title-vs-Proposing-your-Own-Which-is-Better)
 	- [Choosing your Supervisor](#Choosing-your-Supervisor)
 	- [Choosing Project Title vs. Supervisor: Which to Prioritise?](#Choosing-Project-Title-vs-Supervisor-Which-to-Prioritise)
 - [Conclusion](#Conclusion)
