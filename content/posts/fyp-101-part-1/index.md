@@ -4,7 +4,7 @@ title: 'Final Year Project (FYP) 101: Part 1 (Pre-FYP Preparation)'
 description: 'This blog post is the first part of a comprehensive guide and walkthrough of my Final Year Project (FYP) experience for the past 2 semesters as a Software Engineering student.'
 date: '2022-02-17'
 author: 'Muhd Rahiman'
-tags: ['FYP', 'Experience', 'Sharing']
+tags: ['FYP', 'Experience', 'Guide', 'Sharing']
 published: true
 commentsUrl: https://github.com/mdrhmn/itsmeray-v2/issues/3
 featuredImage: './assets/cover.jpeg'
