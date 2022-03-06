@@ -349,7 +349,7 @@ It was through this approach that I managed to secure my own FYP title. In case 
 
 As I mentioned previously, you can also propose your own project title to your preferred supervisor. Sometimes, they may require you to **provide a simple proposal** for them to review or even require you to **submit said proposal to the faculty's FYP coordinator for approval** first before proceeding further.
 
-Such was the case for myself and my partner during our search for our project title. We actually **prepared our own proposals** for 3 different project titles that we brainstormed ourselves as backup in case none of the existing project titles in Ilmiah are not to our taste. I've included [one of them as an example](../fyp-101-part-1/assets/proposal_example.pdf) for your reference
+Such was the case for myself and my partner during our search for our project title. We actually **prepared our own proposals** for 3 different project titles that we brainstormed ourselves as backup in case none of the existing project titles in Ilmiah are not to our taste. I've included [one of them as an example](../fyp-101-part-1/assets/proposal_example.pdf) for your reference. The format is somewhat arbitrary and you don't necessarily have to follow the exact format in the example. What matters most is the **problem statement**, **objectives** and **proposed modules** of the system. You can go for more detail but I suggest to **keep it brief and concise** as to not burden the lecturer reading it.
 
 For us, we **prioritise the supervisors' titles proposed in Ilmiah over our own** mostly on the basis that the supervisors most likely have given far more thought into their own proposed titles than the ones we come up ourselves, but it is up to your own preference.
 
