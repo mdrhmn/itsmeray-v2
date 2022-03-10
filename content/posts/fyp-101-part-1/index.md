@@ -40,7 +40,7 @@ Before that, full disclaimers:
 
 1. **All views expressed in this post are my own**. This article showcases my own **subjective view** and apart from the backing of my own credibility, it does not represent the faculty's official recommendations or views whatsoever. 
 2. My sharing is grounded or limited on the **context of FYP in FCSIT UM for Software Engineering department only** and may not be fully applicable to those from other institutions or even other disciplines of my own faculty.
-3. The focus of this blog is more about sharing the things that are often **left out/only discovered after going through FYP** that I felt **everyone should know in advance/in hindsight** and less about the technical things that you will eventually be briefed by the faculty's FYP coordinator prior to the start of your FYP.
+3. The focus of this blog is more about sharing the things that are often **left out/only discovered after going through FYP** that I felt **everyone should know in advance/in hindsight** and **less about the technical things** that you will eventually be briefed by the faculty's FYP coordinator prior to the start of your FYP.
 4. Please keep in mind that FYP like most subject matters can be incredibly **nuanced** and **no one single anecdote or guide** including this one can be **exhaustive and comprehensive enough** to cover everything.
 5. If there are **any inaccuracies** in the information that is provided in this post or any future posts in the article series, please **do not hesitate** to **message me personally** and **correct me**.
 
