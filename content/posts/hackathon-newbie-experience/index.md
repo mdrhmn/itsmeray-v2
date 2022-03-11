@@ -185,8 +185,6 @@ You can tell from our reactions in the WhatsApp conversation below on the afterm
 
 It was during this time that part of me legit thought that **we might actually have a shot at winning!**
 
-UPDATE (16/2/2021): The organiser just sent me the Zoom video recording of our team's presentation. You can have a look [at my YouTube channel!](https://youtu.be/abLe3mmtk0Q) 
-
 ### Closing Ceremony
 
 Following the excitement I got post-presentation, I can hardly contain my anxiety ahead of the closing ceremony. Despite being sleep-deprived, I wasn't even able to take a nap due to the eagerness and impatience.
