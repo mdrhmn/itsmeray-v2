@@ -348,9 +348,11 @@ It was through this approach that I managed to secure my own FYP title. In case 
 
 ### Proposing your Own Project Title
 
-As I mentioned previously, you can also propose your own project title to your preferred supervisor. Sometimes, they may require you to **provide a simple proposal** for them to review or even require you to **submit said proposal to the faculty's FYP coordinator for approval** first before proceeding further.
+As I mentioned previously, you can also propose your own project title to your preferred supervisor. Sometimes, they may require you to **provide a simple proposal** for them to review or even mandate you to **submit said proposal to the faculty's FYP coordinator for approval** first before proceeding further.
 
-Such was the case for myself and my partner during our search for our project title. We actually **prepared our own proposals** for 3 different project titles that we brainstormed ourselves as backup in case none of the existing project titles in Ilmiah are not to our taste. I've included [one of them as an example](../fyp-101-part-1/assets/proposal_example.pdf) for your reference. The format is somewhat arbitrary and you don't necessarily have to follow the exact format in the example. What matters most is the **problem statement**, **objectives** and **proposed modules** of the system. You can go for more detail but I suggest to **keep it brief and concise** as to not burden the lecturer reading it.
+Such was the case for myself and my partner during our search for our project title. We actually **prepared our own proposals** for 3 different project titles that we brainstormed ourselves as backup in case none of the existing project titles in Ilmiah are to our taste. I've included [one of them as an example](../fyp-101-part-1/assets/proposal_example.pdf) for your reference. 
+
+The format is somewhat arbitrary and you don't necessarily have to follow the exact format in the example. What matters most is the **problem statement**, **objectives** and **proposed modules** of the system. You can go for more detail but I suggest to **keep it brief and concise** as to not burden the lecturer reading it.
 
 
 ---
@@ -361,7 +363,7 @@ For myself, I **prioritise the supervisors' titles proposed in Ilmiah over my ow
 
 Even if you have your own ideas brewing inside your head since the very beginning, you can always try to **choose the most relevant existing title** as **starting point** and try to **incorporate your ideas** from there instead of starting from scratch. Perhaps some of those ideas can become **additional modules** and serve as extensions to the project instead of becoming its _own_ project, if that makes sense. 
 
-At the end of the day, you have to remember that **the titles are not static in nature**. Their brief descriptions are just **initial impressions/plans** and are **intentionally not clearly defined**. It is _your job_ later during FYP1 and FYP2 to define the scope based on your **literature review research**, **requirements elicted from your stakeholders** and **counsel from your supervisor**. 
+At the end of the day, you have to remember that **the titles are not static in nature**. Their brief descriptions are just **initial impressions/plans** and are **intentionally not clearly defined**. It is _your job_ later especially during FYP1 to define the scope based on your **literature review research**, **requirements elicted from your stakeholders** and **counsel from your supervisor**. 
 
 So, **don't judge them solely on face value** and instead think about their **long-term potentials**. I've seen some of the titles taken by my peers that I initially passed on as boring that ended up becoming really interesting when realised into a full-fledged system. You will almost definitely encounter some dilemma in choosing your title, but I hope these tips and insight help to clear the doubt.
 
