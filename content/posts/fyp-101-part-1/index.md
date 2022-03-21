@@ -334,7 +334,10 @@ It was through this approach that I managed to secure my own FYP title. In case 
     As mentioned earlier, the **complexity of your system also affects the evaluation of your FYP**. Because our project involves both machine learning and Internet of Things (IoT), my partner and I were confident that this alone will help in increasing the level of complexity of our project.
 	<br>
 	<br>
-	Of course, that doesn't mean you _have_ to incorporate ML or cloud technologies to make your project complex. For Software Engineering students, there is also a risk of adding elements which do not have much relation to our discipline. For instance, some panels in the SE department **may not be able to fully comprehend and appreciate** the machine learning work that you've done as it's mostly back-end work. To them, it's merely just importing existing libraries and making it work when in reality it's so, so much more than that. But as someone who did incorporate ML in his FYP, **don't let that hinder you from stepping out of your comfort zone!** If you really want to explore ML in your FYP and your project necessitates using it, go ahead!
+	Of course, that doesn't mean you _have_ to incorporate ML or cloud technologies to make your project complex. For Software Engineering students, there is also a risk of adding elements which do not have much relation to our discipline. For instance, some panels in the SE department **may not be able to fully comprehend and appreciate** the machine learning work that you've done as it's mostly back-end work. To them, it's merely just importing existing libraries and making it work when in reality it's so, so much more than that. Furthermore, if let's say you're a Software Engineering student, bear in mind that ultimately you will be evaluated based on your SE skills, _not_ AI.
+	<br>
+	<br>
+	But as someone who did incorporate ML in his FYP, **don't let that hinder you from stepping out of your comfort zone!** If you really want to explore ML in your FYP and your project necessitates using it, go ahead!
 	<br>
 	<br>
 	Even **adding more CRUD-based modules** in your web application can help increase the complexity. Other strategies that I noticed from my peers include **developing a mobile app counterpart**, **adding gamification elements** and **integrating payment gateways**. 
@@ -350,9 +353,9 @@ It was through this approach that I managed to secure my own FYP title. In case 
 
 As I mentioned previously, you can also propose your own project title to your preferred supervisor. Sometimes, they may require you to **provide a simple proposal** for them to review or even mandate you to **submit said proposal to the faculty's FYP coordinator for approval** first before proceeding further.
 
-Such was the case for myself and my partner during our search for our project title. We actually **prepared our own proposals** for 3 different project titles that we brainstormed ourselves as backup in case none of the existing project titles in Ilmiah are to our taste. I've included [one of them as an example](../fyp-101-part-1/assets/proposal_example.pdf) for your reference. 
+Such was the case for myself and my partner during our search for our project title. We actually **prepared our own proposals** for 3 different project titles that we brainstormed ourselves as backup in case none of the existing project titles in Ilmiah are to our taste. I've included [one of them as an example](../fyp-101-part-1/assets/proposal_example.pdf) for your reference.
 
-The format is somewhat arbitrary and you don't necessarily have to follow the exact format in the example. What matters most is the **problem statement**, **objectives** and **proposed modules** of the system. You can go for more detail but I suggest to **keep it brief and concise** as to not burden the lecturer reading it.
+The format is somewhat arbitrary and you don't necessarily have to follow the exact format in the example (I based mine from [this format](../fyp-101-part-1/assets/proposal_format.docx) in case you want to refer). What matters most is the **problem statement**, **objectives** and **proposed modules** of the system. You can go for more detail but I suggest to **keep it brief and concise** as to not burden the lecturer reading it.
 
 
 ---
