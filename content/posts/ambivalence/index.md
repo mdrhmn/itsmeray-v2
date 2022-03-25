@@ -1,4 +1,3 @@
-
 ---
 id: 'ambivalence'
 title: 'Ambivalence'
