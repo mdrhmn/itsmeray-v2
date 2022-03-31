@@ -28,7 +28,7 @@ module.exports = {
       },
       {name: `Hashnode`, socialUrl: `https://ray.hashnode.dev/`},
       {name: `Dev.to`, socialUrl: `https://dev.to/mdrhmn`},
-      {name: `Twitter`, socialUrl: `https://twitter.com/mdrhmn_`}
+      {name: `Twitter`, socialUrl: `https://twitter.com/MuhdRahiman_`}
     ]
   },
   plugins: [
