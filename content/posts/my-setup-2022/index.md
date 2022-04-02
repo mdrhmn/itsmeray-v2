@@ -2,7 +2,7 @@
 id: 'my-setup-2022'
 title: 'My Setup (Early 2022)'
 description: 'An overview of my physical and internal setup for early 2022!'
-date: '2021-04-02'
+date: '2022-04-02'
 author: 'Muhd Rahiman'
 tags: ['Personal', 'Sharing']
 published: true
