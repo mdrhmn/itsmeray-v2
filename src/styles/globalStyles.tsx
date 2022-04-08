@@ -1,5 +1,5 @@
-import {createGlobalStyle} from 'styled-components'
-import {theme} from './theme'
+import { createGlobalStyle } from "styled-components";
+import { theme } from "./theme";
 
 /* http://meyerweb.com/eric/tools/css/reset/
    v4.0 | 20180602
@@ -58,7 +58,7 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
-`
+`;
 
 const styles = () => `
 html, body {
@@ -209,9 +209,9 @@ table, tr, th, td {
   padding: .5rem;
 }
 
-`
+`;
 
 export const GlobalStyle = createGlobalStyle`
 ${reset()}
 ${styles()}
-`
+`;
