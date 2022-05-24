@@ -2,7 +2,7 @@
 id: 'ledv'
 title: 'LEDV: Tips on Career Progression'
 description: 'A summary of a takeaway I got from my 1-on-1 session with my team lead.'
-date: '2022-05-4'
+date: '2022-05-24'
 author: 'Muhd Rahiman'
 tags: ['Motivation', 'Sharing']
 published: true
