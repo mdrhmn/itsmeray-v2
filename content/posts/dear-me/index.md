@@ -17,8 +17,6 @@ url: 'none'
     </em>
 </div>
 
-# Dear Me
-
 Have you ever wondered, **what if you’re able to meet up with your younger self?**
 
 I have to admit, such thoughts had occurred inside my head far more frequent than I’d expected especially when I’m alone. The idea that you could potentially travel back in time and have a one-on-one conversation with a younger, more naïve version of you seems quite thought-provoking to me.
