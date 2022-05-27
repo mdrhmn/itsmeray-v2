@@ -2,7 +2,7 @@
 id: 'six-domains-of-self-care'
 title: 'Six domains of self-care: Attending to the whole person'
 description: 'My reader's digest on this interesting article related to self-care.'
-date: '2020-07-27'
+date: '2022-05-27'
 author: 'Muhd Rahiman'
 tags: ['Motivation', 'Sharing']
 published: true
