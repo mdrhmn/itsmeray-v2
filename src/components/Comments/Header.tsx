@@ -8,7 +8,7 @@ interface HeaderProps {
 const Header: React.FC<HeaderProps> = ({url, noComments}) => (
   <>
     <h2>Comments</h2>
-    <p>Thanks for reading ❤️ </p>
+    <p>Thank you for reading! 🙇🏻‍♂️</p>
 
     <p>
       You can comment by replying to the{' '}
@@ -19,7 +19,7 @@ const Header: React.FC<HeaderProps> = ({url, noComments}) => (
 
     {noComments && (
       <p>
-        There’s no comments yet,{` `}
+        There's no comments yet,{` `}
         <a
           href={`${url}#new_comment_field`}
           target="_blank"
