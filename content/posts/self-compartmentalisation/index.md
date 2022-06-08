@@ -1,7 +1,7 @@
 ---
 id: 'self-compartmentalisation'
 title: 'Self-Compartmentalisation'
-description: 'A psychological concept of mentally separate conflicting thoughts, emotions, or experiences depending on the occasson.'
+description: 'A psychological concept of mentally separate conflicting thoughts, emotions, or experiences depending on the occasion.'
 date: '2022-06-08'
 author: 'Muhd Rahiman'
 tags: ['Personal', 'Sharing']
