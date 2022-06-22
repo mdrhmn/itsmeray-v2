@@ -78,7 +78,9 @@ I find that **some roles do naturally develop this train of thought** thanks to 
 
 Leaders are almost expected to apply this mental model, especially when dealing with a crisis at work. 
 
-For example, should a manager micromanage to quickly resolve an issue at the cost of increased dependency by their team memebrs, or should they entrust their team to do it as a way to empower them at the expense of longer time taken?
+For example, should a manager micromanage to quickly resolve an issue at the cost of increased dependency by their team memebrs, or should they entrust their team to do it as a way to empower them at the expense of longer time taken? 
+
+Ask yourself: Is it better to optimize for long-term gain at the cost of short-term pain? 
 
 Naturally, 1 question that popped into my head when discovering this mindset is: **How do you differentiate between this and overthinking?**
 
