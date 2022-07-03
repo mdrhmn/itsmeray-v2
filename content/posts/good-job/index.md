@@ -7,7 +7,7 @@ author: "Muhd Rahiman"
 tags: ["Sharing"]
 published: true
 commentsUrl: https://github.com/mdrhmn/itsmeray-v2/issues/15
-featuredImage: "./assets/cover.gif"
+featuredImage: "./assets/cover.jpg"
 type: "post"
 url: "none"
 ---
