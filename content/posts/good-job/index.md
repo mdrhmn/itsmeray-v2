@@ -32,6 +32,8 @@ Of course, I totally disagree that one has to opt for unconventional, unorthodox
 
 When I recalled my past life experiences, many of the instances that propelled my growth comes from the near-insatiable desire for perfection–even if it's unattainable. Criticisms and negative feedback given by those who mentored me (or even from myself) pushed my limit beyond what I initially thought I was capable of, far more than the compliments I've gotten along the way. After all, **diamonds can only form under immense pressure**.
 
+Was it tough? Of course. Did I like the experience? Absolutely not. But **what's good for you isn't always something that you like doing**, so we have to keep reminding ourselves of that. 
+
 In our culture, we often dread or sulk at the sight of getting our work scrutinised. We only yearn to get our work accepted on the first try and complimented at the highest levels. Unfortunately, **life doesn't always work that way**. If anything, **one should be grateful that someone especially of skill and reputation is willing to take the time and effort to analyse your work and come up with constructive criticisms**. It shows that they believe you're going to be worth their investment and that they believe in your potential to go further.
 
 In more blatant terms, when someone gives enough of a shit about you and wanting to improve, they won't sugarcoat and just **call a spade, a spade**. It's miles better and preferable compared to if you obtained generic remarks which are nowhere near as helpful.
