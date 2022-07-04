@@ -44,4 +44,4 @@ To me. the best recipe for shaping others for success would be to give positive 
 
 At the end of the day, we all have to ask ourselves: **How far are we willing to go and push ourselves until it no longer seems to be worth doing that?** What will be the answer to that question will determine your tolerance level.
 
-So, while 'good job' aren't _literally_ the most dangerous words in the English corpora, it sure can have a lasting impact if not used sparingly. The words you use, and anything that accompanies those words in the form of an award, should be aligned with the level of result achieved by the person you’re recognizing.
+So, while 'good job' aren't _literally_ the most dangerous words in the English corpora, it sure can have a lasting impact if not used sparingly. The words you use, and anything that accompanies those words in the form of an award, should be aligned with the level of result achieved by the person you’re recognising.
