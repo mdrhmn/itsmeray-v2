@@ -22,7 +22,7 @@ url: "none"
 
 If you're among the millions of movie fans around the world who tuned in to the Academy Awards every year and watch Oscar-nominated films, you might be able to recall this famous line from Damien Chazelle's Best Picture-nominated ultra-intense movie, _Whiplash_. I highly recommend you watch it if you haven't, as the movie poses lots of philosophical questions about to what extent one is willing to achieve their dreams.
 
-When I watched this movie back in 2014, that very line of dialogue (which can be watched [here](https://www.youtube.com/watch?v=WN_IzDeBdRM) that was exceptionally delivered by J.K. Simmons (who deservingly won Best Supporting Actor for his amazing portrayal as the cruel and remorseless music conductor who pushed his musicians beyond their breaking points motivated by his obsession to find the _best_ among the rest) stuck with me ever since, and I sometimes thought about it whenever I feel like giving up. The reason why is because (_and as much as I hate to admit it_):
+When I watched this movie back in 2014, that very line of dialogue (which can be watched [here](https://www.youtube.com/watch?v=WN_IzDeBdRM)) that was exceptionally delivered by J.K. Simmons (who deservingly won Best Supporting Actor for his amazing portrayal as the cruel and remorseless music conductor who pushed his musicians beyond their breaking points motivated by his obsession to find the _best_ among the rest) stuck with me ever since, and I sometimes thought about it whenever I feel like giving up. The reason why is because (_and as much as I hate to admit it_):
 
 **I think he has a point, and I can see where he's coming from.**
 
