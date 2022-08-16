@@ -10,7 +10,7 @@ module.exports = {
     title: `itsmeray`,
     description: `My personal site made with Gatsby.js`,
     siteUrl: `https://itsmeray.com/`,
-    image: `/images/about_me_picture.jpg`,
+    image: `/images/about_me_picture_new.jpg`,
     googleSiteVerification:
       process.env.GOOGLE_SITE_VERIFICATION ||
       'Add the Google Site Verification',

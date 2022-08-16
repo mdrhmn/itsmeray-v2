@@ -18,7 +18,7 @@ const AboutPage: React.FC<AboutPageProps> = ({data}) => {
     <Layout title={siteTitle}>
       <Head
         title="About Me"
-        image="/images/about_me_picture.jpg"
+        image="/images/about_me_picture_new.jpg"
         keywords={[
           `blog`,
           `gatsby`,
