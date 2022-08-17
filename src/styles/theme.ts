@@ -11,7 +11,8 @@ export const theme = {
         secondaryLight: "#f6dea5",
         secondaryDark: "#6b6349",
 
-        info: "#0284fe",
+        // info: "#0284fe",
+        info: "#93c5fd",
         warning: "#d6ae3e",
         danger: "#D93025",
         dangerLight: "#ff9089",

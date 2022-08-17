@@ -101,6 +101,7 @@ p {
 }
 
 strong {
+  color: ${theme.colors.secondaryLight};
   font-weight: ${theme.fontWeights.bold};
 }
 
@@ -131,7 +132,7 @@ a {
   text-decoration: none;
   transition: color ease-in .2s;
   font-weight: ${theme.fontWeights.bold};
-  color: ${theme.colors.lightest};
+  color: ${theme.colors.info};
   border-bottom: 1px dashed ${theme.colors.lightest};
 
   &:hover {
