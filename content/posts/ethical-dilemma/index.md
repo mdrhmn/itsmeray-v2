@@ -6,7 +6,7 @@ date: "2022-08-18"
 author: "Muhd Rahiman"
 tags: ["Sharing"]
 published: true
-commentsUrl: https://github.com/mdrhmn/itsmeray-v2/issues/16
+commentsUrl: https://github.com/mdrhmn/itsmeray-v2/issues/17
 featuredImage: "./assets/cover.jpg"
 type: "post"
 url: "none"
