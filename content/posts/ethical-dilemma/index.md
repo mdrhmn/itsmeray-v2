@@ -1,7 +1,7 @@
 ---
 id: "ethical-dilemma"
 title: "Would you work in such a company?"
-description: "A thought experiment on where you should draw the line on ethicality of job opportunities."
+description: "A thought experiment on where you should draw the line on the ethicality of job opportunities."
 date: "2022-08-18"
 author: "Muhd Rahiman"
 tags: ["Sharing"]
