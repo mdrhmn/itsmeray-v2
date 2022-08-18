@@ -4,7 +4,7 @@ title: 'Dear Me'
 description: 'Have you ever wondered, what if you’re able to meet up with your younger self?'
 date: '2022-05-23'
 author: 'Muhd Rahiman'
-tags: ['Personal', 'Sharing']
+tags: ['Personal']
 published: true
 commentsUrl: https://github.com/mdrhmn/itsmeray-v2/issues/11
 featuredImage: './assets/cover.jpeg'

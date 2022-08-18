@@ -4,7 +4,7 @@ title: 'What is Empathy?'
 description: 'A personal take on the concept of empathy based on a talk I attended.'
 date: '2020-07-13'
 author: 'Muhd Rahiman'
-tags: ['Personal', 'Motivation', 'Sharing']
+tags: ['Motivation', 'Sharing']
 published: true
 commentsUrl: https://github.com/mdrhmn/itsmeray-v2/issues/4
 featuredImage: './assets/cover.jpg'

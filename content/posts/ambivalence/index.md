@@ -4,7 +4,7 @@ title: 'Ambivalence'
 description: 'A personal write-up on handling ambivalence or conflict of emotions: being genuinely happy for others while pushing past your personal setbacks.'
 date: '2021-02-17'
 author: 'Muhd Rahiman'
-tags: ['Personal', 'Motivation', 'Sharing']
+tags: ['Personal']
 published: true
 commentsUrl: https://github.com/mdrhmn/itsmeray-v2/issues/7
 featuredImage: './assets/cover.png'

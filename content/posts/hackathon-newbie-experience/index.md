@@ -4,7 +4,7 @@ title: 'Hackathon: A First-Timer Experience'
 description: 'Detailed look into arguably one of the wildest roller-coaster rides of my entire student life: My first-time experience in joining hackathon!'
 date: '2021-02-15'
 author: 'Muhd Rahiman'
-tags: ['Hackathon', 'Experience', 'Sharing']
+tags: ['Hackathon', 'Experience']
 published: true
 commentsUrl: https://github.com/mdrhmn/itsmeray-v2/issues/1
 featuredImage: './assets/cover.png'

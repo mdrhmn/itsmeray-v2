@@ -4,7 +4,7 @@ title: 'My Setup (Early 2022)'
 description: 'An overview of my physical and internal setup for early 2022!'
 date: '2022-04-02'
 author: 'Muhd Rahiman'
-tags: ['Personal', 'Sharing']
+tags: ['Sharing']
 published: true
 commentsUrl: https://github.com/mdrhmn/itsmeray-v2/issues/9
 featuredImage: './assets/cover.jpg'

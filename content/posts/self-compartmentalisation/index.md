@@ -4,7 +4,7 @@ title: 'Self-Compartmentalisation'
 description: 'A psychological concept of mentally separate conflicting thoughts, emotions, or experiences depending on the occasion.'
 date: '2022-06-08'
 author: 'Muhd Rahiman'
-tags: ['Personal', 'Sharing']
+tags: ['Personal']
 published: true
 commentsUrl: https://github.com/mdrhmn/itsmeray-v2/issues/13
 featuredImage: './assets/cover.png'

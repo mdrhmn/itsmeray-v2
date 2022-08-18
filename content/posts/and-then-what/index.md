@@ -4,7 +4,7 @@ title: '"And then what?": Second-Order Thinking'
 description: "A mental model on how to be a better decision-maker"
 date: "2022-06-22"
 author: "Muhd Rahiman"
-tags: ["Sharing"]
+tags: ["Productivity"]
 published: true
 commentsUrl: https://github.com/mdrhmn/itsmeray-v2/issues/14
 featuredImage: "./assets/cover.png"

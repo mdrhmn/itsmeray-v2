@@ -4,7 +4,7 @@ title: 'Triumph Over Pandemic'
 description: "A story of my experience during the 1st MCO"
 date: "2022-08-16"
 author: "Muhd Rahiman"
-tags: ["Sharing"]
+tags: ["Personal"]
 published: true
 commentsUrl: https://github.com/mdrhmn/itsmeray-v2/issues/16
 featuredImage: "./assets/cover.JPG"

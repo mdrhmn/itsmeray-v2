@@ -4,7 +4,7 @@ title: 'Six domains of self-care: Attending to the whole person'
 description: "My reader's digest on this interesting article related to self-care"
 date: '2022-05-27'
 author: 'Muhd Rahiman'
-tags: ['Sharing']
+tags: ['Productivity']
 published: true
 commentsUrl: https://github.com/mdrhmn/itsmeray-v2/issues/12
 featuredImage: './assets/cover.png'

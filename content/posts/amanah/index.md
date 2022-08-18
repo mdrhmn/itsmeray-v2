@@ -4,7 +4,7 @@ title: 'Amanah'
 description: 'Everyone can learn and strive to be a leader, but should everyone be one?'
 date: '2020-11-12'
 author: 'Muhd Rahiman'
-tags: ['Personal', 'Motivation', 'Sharing']
+tags: ['Sharing']
 published: true
 commentsUrl: https://github.com/mdrhmn/itsmeray-v2/issues/8
 featuredImage: './assets/cover.png'

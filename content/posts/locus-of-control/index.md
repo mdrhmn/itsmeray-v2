@@ -4,7 +4,7 @@ title: 'Locus of Control'
 description: 'An in-depth analysis into locus of control and how understanding it can help improve our lives.'
 date: '2020-04-20'
 author: 'Muhd Rahiman'
-tags: ['Personal', 'Motivation', 'Sharing']
+tags: ['Motivation', 'Productivity']
 published: true
 commentsUrl: https://github.com/mdrhmn/itsmeray-v2/issues/6
 featuredImage: './assets/cover.jpg'

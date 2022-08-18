@@ -4,7 +4,7 @@ title: 'The Fall of Icarus'
 description: 'A personal interpretation and analysis of the famous Greek mythology.'
 date: '2020-07-27'
 author: 'Muhd Rahiman'
-tags: ['Personal', 'Motivation', 'Sharing']
+tags: ['Personal']
 published: true
 commentsUrl: https://github.com/mdrhmn/itsmeray-v2/issues/5
 featuredImage: './assets/cover.jpg'
