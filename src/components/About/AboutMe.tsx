@@ -18,16 +18,16 @@ const AboutMe: React.FC = () => {
     return (
         <Content>
             <p>
-                A passionate and highly motivated developer born and raised in
-                Kuching, Sarawak with a strong keenness to learn new things.
+                An aspiring full-stack developer born and raised in Kuching,
+                Sarawak with strong and broad technical acumen dedicated to
+                lifelong learning.
             </p>
 
             <p>
-                A first-class graduate in Software Engineering from Universiti
-                Malaya, I joined Dell Technologies as a Software Engineer based
-                in Cyberjaya under the TMX Validation and Transition COE team
-                after being crowned the Grand Prize Winner (tied) for Dell
-                Virtual Hack2Hire (Feb 2021).
+                A <strong>Software Engineering first-class graduate</strong> from Universiti
+                Malaya, I joined <strong>Dell Technologies</strong> as a Software Engineer based
+                in Cyberjaya after being crowned the Grand Prize Winner (tied)
+                for Dell Digital Virtual Hack2Hire (Feb 2021).
             </p>
 
             <p>

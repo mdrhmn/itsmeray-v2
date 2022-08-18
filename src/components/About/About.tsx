@@ -19,11 +19,14 @@ export const Wrapper = styled.section`
 export const Information = styled.header`
   grid-row: 2 / 4;
   grid-column: 1 / 6;
+  max-width: 55%;
   z-index: 3;
   ${props => props.theme.media.max.md`
+    max-width: 49%;
     grid-column: 1 / 7;
   `}
   ${props => props.theme.media.max.sm`
+    max-width: 100%;
     grid-row: 2 / 3;
     grid-column: 1 / 1;
   `}
