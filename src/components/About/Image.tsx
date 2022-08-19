@@ -28,14 +28,14 @@ const StyledImage = styled.img`
   width: 100%;
   height: 100%;
   margin: auto;
-  top: -120%;
+  top: -100%;
   right: -100%;
   bottom: -100%;
   left: -100%;
   mix-blend-mode: lighten;
   opacity: 0.5;
   display: block;
-  object-fit: contain;
+  object-fit: cover;
   ${props => props.theme.media.max.sm`
       opacity: 0.7;
     `}
