@@ -19,8 +19,6 @@ url: 'none'
 
 <br>
 
-> "Brag now, remember later: Document your accomplishments!" — Monica Powell
-
 The following are the list of contributions and accomplishments I made throughout my employment at Dell Technologies:
 
 <br>
